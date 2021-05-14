@@ -24,5 +24,5 @@ Bunlar her kullanıcı için tekrarlanır.
 #### Hesaplar klasorünün içerisindekiler
 - {MüşteriNumarası}.txt olan dosyada kullanıcıların ek hesaplarının bakiyesi tutulur
 - {MüşteriNumarası}{HesapNumarası}.txt adlı dosyada
--- hesaptaki bakiyesi
--- hesapta gerçekleştirelen para işlemlerinin tarihi ve gerçekleştirilen olay
+ - hesaptaki bakiyesi
+ - hesapta gerçekleştirelen para işlemlerinin tarihi ve gerçekleştirilen olay
