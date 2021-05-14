@@ -11,18 +11,18 @@
 Projeyi çalıştırmak için özel birşey gerekmemektedir.
 Bankanın özel hesabının müşteri numarası: ```654321``` şifresi ```1234```
 #### ticari.txt ve bireysel.txt dosyalarında
-- her bir kullanıcının başında  ```*``` işareti vardır
+- Her bir kullanıcının başında  ```*``` işareti vardır
 - İlk önce müşteri numarası 
-- hesap sayısı
-- pini
+- Hesap sayısı
+- Pini
 - Kullanıcın adı (boşluk karakteri için ```.``` kullanılmıştır)
 - Günlük Para çekme limiti ve o günün tarihi (yıl/ay/gün)
 - ```_``` işareti kullanıcının hesaplarının içine girildiği söylenir
-- hesap numaraları
+- Hesap numaraları
 Bunlar her kullanıcı için tekrarlanır.
 
 #### Hesaplar klasorünün içerisindekiler
 - {MüşteriNumarası}.txt olan dosyada kullanıcıların ek hesaplarının bakiyesi tutulur
 - {MüşteriNumarası}{HesapNumarası}.txt adlı dosyada
-  - hesaptaki bakiyesi
-  - hesapta gerçekleştirelen para işlemlerinin tarihi ve gerçekleştirilen olay
+  - Hesaptaki bakiyesi
+  - Hesapta gerçekleştirelen para işlemlerinin tarihi ve gerçekleştirilen olay
